@@ -1,0 +1,23 @@
+header{
+    background-color: rgb(43, 226, 217);
+    padding: 5em;
+
+}
+header h1{
+    font-style: normal;
+    font-weight: bolder;
+}
+
+p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    margin-left: 20px;
+
+}
+
+
+footer{
+    margin-top:100px;
+    margin-left: 500px;
+}
